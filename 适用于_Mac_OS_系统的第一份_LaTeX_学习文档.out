@@ -1,0 +1,39 @@
+\BOOKMARK [1][-]{section.1}{LaTeX软件的安装和使用}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{从 LaTeX 的官网安装适用于 Mac OS 的 MacTeX}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{安装适用于 Mac OS 系统的 Texmaker 和/或 TeXstudio}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{了解 LaTeX的第一步}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{编辑第一个 LaTeX文档}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{解密第一个 LaTeX文档}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{LaTeX的命令与环境}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{LaTeX源代码结构}{subsection.2.2}% 8
+\BOOKMARK [1][-]{section.3}{了解 LaTeX的第二步}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{给文档添加标题、作者和注释}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{LaTeX的标题页和注释的添加方法}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.1}{LaTeX的标题页}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.2}{LaTeX的注释}{subsection.3.2}% 13
+\BOOKMARK [1][-]{section.4}{了解 LaTeX的第三步}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{结构化 LaTeX文档的实现}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{区分 LaTeX章节和段落的方法}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{了解 LaTeX的第四步}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{实现在 LaTeX中生成目录}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{向 LaTeX文档加入目录的方法}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{了解 LaTeX的第五步}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{LaTeX文档换行的实现}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.2}{令 LaTeX文档立即换行的方法}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{了解 LaTeX的第六步}{}% 23
+\BOOKMARK [2][-]{subsection.7.1}{使用 LaTeX实现数学公式的编辑}{section.7}% 24
+\BOOKMARK [2][-]{subsection.7.2}{AmS-LaTeX 宏集}{section.7}% 25
+\BOOKMARK [3][-]{subsubsection.7.2.1}{公式排版基础}{subsection.7.2}% 26
+\BOOKMARK [3][-]{subsubsection.7.2.2}{数学模式和文本}{subsection.7.2}% 27
+\BOOKMARK [3][-]{subsubsection.7.2.3}{一般数学符号与上下标}{subsection.7.2}% 28
+\BOOKMARK [3][-]{subsubsection.7.2.4}{分式和根式}{subsection.7.2}% 29
+\BOOKMARK [3][-]{subsubsection.7.2.5}{关系符与算符}{subsection.7.2}% 30
+\BOOKMARK [3][-]{subsubsection.7.2.6}{巨算符}{subsection.7.2}% 31
+\BOOKMARK [3][-]{subsubsection.7.2.7}{数学重音、箭头和上下括号}{subsection.7.2}% 32
+\BOOKMARK [3][-]{subsubsection.7.2.8}{括号和定界符}{subsection.7.2}% 33
+\BOOKMARK [3][-]{subsubsection.7.2.9}{长公式折行}{subsection.7.2}% 34
+\BOOKMARK [3][-]{subsubsection.7.2.10}{多行公式}{subsection.7.2}% 35
+\BOOKMARK [3][-]{subsubsection.7.2.11}{数组和矩阵}{subsection.7.2}% 36
+\BOOKMARK [1][-]{section.8}{了解 LaTeX的第七步}{}% 37
+\BOOKMARK [2][-]{subsection.8.1}{向 LaTeX文档插入图片}{section.8}% 38
+\BOOKMARK [2][-]{subsection.8.2}{支持插图功能的 graphicx 宏包}{section.8}% 39
